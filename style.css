@@ -137,3 +137,11 @@ footer p {
         width: 100%;
     }
 }
+
+#creator {
+    float: right;
+    font-family: "Dancing script", cursive;
+    margin-right: 20px;
+    margin-bottom: 100px;
+    color: #000;
+}
