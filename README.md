@@ -8,6 +8,7 @@ In this project, you will use properties such as display and position to build t
 
 Install the project locally
 ```bash
+https://github.com/SenayYakut/Broadway.git
 ```
 
 ## Usage
